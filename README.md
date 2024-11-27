@@ -1,4 +1,3 @@
-Claro! Aqui está o texto formatado para o `README.md` do GitHub, com títulos organizados e formatação adequada em Markdown:
 
 ---
 
