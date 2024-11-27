@@ -85,5 +85,3 @@ Feito com ❤️ por **Bárbara Helóra** e **Gabriel Ferrari**
 Estudantes do 3º M-Tec PI da **Etec Euro Albino de Sousa**  
 
 ---
-
-Com isso, seu README.md estará bem formatado e organizado para o GitHub! Se precisar de ajustes ou melhorias, é só pedir. 😊
