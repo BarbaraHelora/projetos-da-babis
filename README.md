@@ -27,10 +27,16 @@ Ao clicar no botão de cadastro, caso não exista uma conta previamente cadastra
 E no fim, para finalmente utilizar da aplicação em si, nesta tela, coloque um valor em real e veja-o ser convertido automaticamente em USD, EUR e GBP!
 ![image](https://github.com/user-attachments/assets/7d60347a-f882-4fef-8297-a1b4783f50c6)
 
+As versões utilizadas foram:
+Expo: ~51.0.28 (SDK do Expo).
+React: 18.2.0.
+React Native: 0.74.5.
 
+### Versões utilizadas
+- **Expo**: ~51.0.28
+- **React**: 18.2.0
+- **React Native**: 0.74.5
 
-
-
- Capturas de tela do app em funcionamento. - 
+Awsome
  Versões do React Expo e da API utilizadas. - 
  Nome dos programadores, curso e escola. 
